@@ -344,7 +344,7 @@ div > h1 > p{
 }
 
 iframe{
-  
+
 
 
 }
@@ -362,6 +362,20 @@ iframe{
     display: block;
     position: relative;
     background: url('../img/FullSizeRendercrop.png') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+.topab{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/AirBrawlCover.png') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
