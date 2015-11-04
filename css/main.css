@@ -282,7 +282,7 @@ h5, h6          { font-weight: bolder }
 
 
 div > h1 > p{
-  margin: 2px;
+  margin: 0px;
 }
 
 
@@ -344,7 +344,7 @@ div > h1 > p{
 }
 
 iframe{
-
+  float: right;
 
 
 }
